@@ -1,0 +1,30 @@
+[
+  {
+    "ticket_id": 102,
+    "assigned_employee_id": 1001,
+    "customer_id": "CUST-2041",
+    "order_id": "ORD-8802",
+    "category": "refund_request",
+    "status": "open",
+    "delivery_date": "2026-10-10",
+    "request_date": "2026-11-15",
+    "item_condition": "Unopened; no defect reported.",
+    "amount_cents": 18900,
+    "requested_refund_method": "original_payment_method",
+    "description": "Customer requests a refund for an unopened item 36 days after delivery."
+  },
+  {
+    "ticket_id": 103,
+    "assigned_employee_id": 1001,
+    "customer_id": "CUST-3187",
+    "order_id": "ORD-9021",
+    "category": "shipping",
+    "status": "in_progress",
+    "delivery_date": "2026-11-17",
+    "request_date": "2026-11-18",
+    "item_condition": "Package arrived with visible exterior damage.",
+    "amount_cents": 0,
+    "requested_refund_method": "original_payment_method",
+    "description": "Customer reports a damaged shipping carton and requests an investigation."
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "employee_id": 1001,
+    "full_name": "Alex Morgan",
+    "department": "Customer Operations",
+    "job_title": "Support Specialist",
+    "email": "alex.morgan@example.invalid"
+  },
+  {
+    "employee_id": 1002,
+    "full_name": "Taylor Rivera",
+    "department": "People Operations",
+    "job_title": "People Operations Coordinator",
+    "email": "taylor.rivera@example.invalid"
+  }
+]
